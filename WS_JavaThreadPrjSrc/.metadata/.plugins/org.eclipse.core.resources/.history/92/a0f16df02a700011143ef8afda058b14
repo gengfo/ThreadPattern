@@ -1,8 +1,0 @@
-package A1t6aDeadLock;
-
-public class Tool {
-	
-	private final String name;
-	
-
-}
