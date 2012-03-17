@@ -1,0 +1,15 @@
+package A1t6aDeadLock;
+
+public class Tool {
+
+	private final static String name = "";
+
+	public Tool(String name) {
+		this.name = name;
+	}
+
+	public String toString() {
+		return "[ " + name + " ]";
+	}
+
+}

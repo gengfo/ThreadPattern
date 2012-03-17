@@ -1,0 +1,17 @@
+#*.classpath
+#*.project
+#target
+#dist
+#.settings
+#.myeclipse
+#.mymetadata
+#.springBeans
+#.metadata
+*.jar
+*.war
+*.zip
+*.ear
+*.class
+*.bak
+bin
+classes

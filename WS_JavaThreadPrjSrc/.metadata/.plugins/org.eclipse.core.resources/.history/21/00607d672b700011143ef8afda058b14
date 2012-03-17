@@ -1,0 +1,7 @@
+package A1t6aDeadLock;
+
+public class EaterThread extends Thread{
+	
+	
+
+}

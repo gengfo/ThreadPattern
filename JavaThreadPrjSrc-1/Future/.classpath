@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/A9-3a"/>
+	<classpathentry kind="src" path="src/A9-3b"/>
+	<classpathentry kind="src" path="src/A9-4a"/>
+	<classpathentry kind="src" path="src/A9-4b"/>
+	<classpathentry kind="src" path="src/jucSample"/>
+	<classpathentry kind="src" path="src/Q9-3"/>
+	<classpathentry kind="src" path="src/Q9-4"/>
+	<classpathentry kind="src" path="src/Sample"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="src/bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+package A1t6aDeadLock;
+
+public class EaterThread extends Thread{
+	
+	private String name;
+	private final Tool leftHand;
+	private final Tool rightHand;
+	
+	public EaterThread(String name, Tool leftHand, Tool rightHand){
+		this.name = name;
+		
+	}
+
+}
