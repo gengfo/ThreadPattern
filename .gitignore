@@ -6,7 +6,11 @@
 #.myeclipse
 #.mymetadata
 #.springBeans
-#.metadata
+
+#not include workspace settings
+.metadata
+
+
 *.jar
 *.war
 *.zip
